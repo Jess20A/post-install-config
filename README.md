@@ -65,3 +65,6 @@ All of these files will have to be dowloaded in order to have OsTicket up and ru
 
 When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by choosing to do a typical setup and launch configuration wizard after the installation. Choose standard configuration and create a password for the username root.
 
+
+
+
