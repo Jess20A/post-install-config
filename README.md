@@ -51,10 +51,12 @@ Install and enable IIS in Windows with CGI. Once in the windows features, start 
 </p>
 <br />
 
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/0c8ce590-0225-4e03-807c-a03a4c40dfdf)
+
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/0d0a90b2-3133-4734-8c2b-e6c32ae5663c)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install PHP Manager for IIS as well as the Rewrite Module.
 </p>
 <br />
