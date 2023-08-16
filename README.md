@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -33,7 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/7fb798dd-156c-4b46-8d56-afacb338c55d)
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/ef492030-1600-4157-bf55-4084e4fe2696)
+
 
 
 </p>
@@ -51,12 +53,15 @@ Install and enable IIS in Windows with CGI. Once in the windows features, start 
 </p>
 <br />
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/0c8ce590-0225-4e03-807c-a03a4c40dfdf)
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/0d0a90b2-3133-4734-8c2b-e6c32ae5663c)
-
-
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/2a3b83c2-c5d7-4ae2-a04e-1e8461b98529)
 <p>
-Download and install PHP Manager for IIS as well as the Rewrite Module.
+All of these files will have to be dowloaded in order to have OsTicket up and running correctly.
+
 </p>
 <br />
+
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/206ed688-f63b-45d2-bd4b-4edf1172e5fd)
+
+When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by choosing to do a typical setup and launch configuration wizard after the installation. Choose standard configuration and create a password for the username root.
+
