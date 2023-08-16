@@ -19,9 +19,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Azure Virtual Machine
 - Internet Information Services
-- https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
-- Item 4
-- Item 5
+- PHP Manager
+- Rewrite Module
+- PHP 7.3.8
+- VC Redist x86.exe
+- MySQL 5.5.62
+- OsTicket v1.15.8
+- HeidiSQL
 
 <h2>Configuration Steps</h2>
 
