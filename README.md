@@ -15,11 +15,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Install Prerequisites</h2>
 
 - Azure Virtual Machine
-- Install and Enable IIS
-- Item 3
+- Internet Information Services
+- https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
 - Item 4
 - Item 5
 
