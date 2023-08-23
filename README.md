@@ -33,13 +33,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/ef492030-1600-4157-bf55-4084e4fe2696)
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/dee3379a-36bb-4106-bac4-18f98c055c6b)
 
 
 
 </p>
 <p>
-Create a Windows 10 Virtual Machine using Azure and afterwards connect to it by using Remote Desktop. Copy your public IP Address and type your password to connect. 
+Configure a role by going to the Admin Panel > Agents > Roles. You can then choose the permissions you want each role to have. 
 </p>
 <br />
 
