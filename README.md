@@ -39,7 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Configure a role by going to the Admin Panel > Agents > Roles. You can then choose the permissions you want each role to have. 
+Configure a role by going to the Admin Panel > Agents > Roles. You can then choose the permissions you want each role to have in regards to tickets and tasks. 
 </p>
 <br />
 
