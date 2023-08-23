@@ -18,15 +18,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Prerequisites</h2>
 
-- Azure Virtual Machine
-- Internet Information Services
-- PHP Manager
-- Rewrite Module
-- PHP 7.3.8
-- VC Redist x86.exe
-- MySQL 5.5.62
-- OsTicket v1.15.8
-- HeidiSQL
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
+
 
 <h2>Configuration Steps</h2>
 
