@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/c8567f7c-69ec-4c22-8e8c-67ecff639be5)
+<img width="309" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/662e3066-f8b6-4dca-a48a-fc79293c07fb">
 
 
 
@@ -44,7 +44,7 @@ Configure a role by going to the Admin Panel > Agents > Roles. You can then choo
 <br />
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/7ca84656-ec36-4658-9c73-8bad58a87457)
+<img width="304" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/e4735325-aed2-46fd-9509-3355a5eb2dd1">
 
 
 
@@ -55,7 +55,8 @@ To configure departments go to the Admin Panel > Agents > Departments. Since tic
 <br />
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/6596a293-e2e1-482b-876e-988701765433)
+<img width="308" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/f0dcf03c-3017-430b-aa01-906b199815ea">
+
 
 <p>
 Configure Teams by going to the Admin Panel > Agents > Teams. Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
@@ -63,11 +64,22 @@ Configure Teams by going to the Admin Panel > Agents > Teams. Teams allow you to
 </p>
 <br />
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/8a7913fe-fa1e-4dfe-a1bd-677a5ef5964e)
-
-
-To configure Agents you will go to the Admin Panel > Agents > Add New. Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. 
+<img width="328" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/fcafbcce-56b4-4ec1-914b-8ac5c8d20256">
 
 
 
+To configure Agents (workers) you will go to the Admin Panel > Agents > Add New. Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. 
 
+
+<img width="329" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/d1d34a02-847f-493b-a65d-d152459df3f9">
+
+When configuring Users (customers) begin by going to the Agent Panel > Users > Add New. Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk.  
+
+
+<img width="293" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/6f45f639-522b-4ecd-95f4-de70714ec028">
+
+To configure SLA (Service Level Agreements) start by going to the Admin Panel > Manage > SLA. For example you can have Sev-A (1hr, 24/7), Sev-B (4hrs, 24/7) and Sev-C (8hrs, business hrs). The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+
+<img width="308" alt="image" src="https://github.com/Jess20A/post-install-config/assets/142112890/43bc7635-c19c-463b-a806-8ff580b20d4e">
+
+To configure Help Topics go to the Admin Panel > Manage > Help Topics. Examples of these can be business critical outage, personal computer issues, equipment request, etc.  Help Topics will help streamline your end-user's help desk experience to ensure proper assignment and prompt response to the ticket. 
