@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/dee3379a-36bb-4106-bac4-18f98c055c6b)
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/c8567f7c-69ec-4c22-8e8c-67ecff639be5)
 
 
 
@@ -44,11 +44,13 @@ Configure a role by going to the Admin Panel > Agents > Roles. You can then choo
 <br />
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/9c93db9d-b6ea-4956-ae88-a24ddbcc8a22)
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/7ca84656-ec36-4658-9c73-8bad58a87457)
+
+
 
 </p>
 <p>
-Install and enable IIS in Windows with CGI. Once in the windows features, start by checking the box for Internet Information Services. Expand World Wide Web Services followed by Application Development Features and checking the CGI and Common HTTP Features boxes. To test IIS go to a web browser and type 127.0.0.1, it should load the IIS webpage if all worked well.
+To configure departments go to the Admin Panel > Agents > Departments. Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
 </p>
 <br />
 
