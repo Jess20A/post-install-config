@@ -55,16 +55,18 @@ To configure departments go to the Admin Panel > Agents > Departments. Since tic
 <br />
 
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/2a3b83c2-c5d7-4ae2-a04e-1e8461b98529)
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/6596a293-e2e1-482b-876e-988701765433)
+
 <p>
-All of these files will have to be dowloaded in order to have OsTicket up and running correctly.
+Configure Teams by going to the Admin Panel > Agents > Teams. Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
 
 </p>
 <br />
 
-![image](https://github.com/Jess20A/post-install-config/assets/142112890/206ed688-f63b-45d2-bd4b-4edf1172e5fd)
+![image](https://github.com/Jess20A/post-install-config/assets/142112890/8a7913fe-fa1e-4dfe-a1bd-677a5ef5964e)
 
-When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by choosing to do a typical setup and launch configuration wizard after the installation. Choose standard configuration and create a password for the username root.
+
+To configure Agents you will go to the Admin Panel > Agents > Add New. Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. 
 
 
 
